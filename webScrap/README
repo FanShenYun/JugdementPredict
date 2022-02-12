@@ -1,0 +1,2 @@
+JudgeScrap：用selenium爬取判決書查詢系統中每個判決網址的編碼
+JudgeText：用pandas的套件直接抓取判決網址中每個table的內容，即可包含判決內文
