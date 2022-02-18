@@ -7,4 +7,5 @@ https://ateam-judgement-prediction.herokuapp.com/
 1. 網路爬蟲 (webScrap)
 2. 資料清理 (dataCleaning)
 3. 特徵工程 (featureEngineering)
-4. 視覺化呈現 (visualization)
+4. 機械學習 (JudgeML)
+5. 視覺化呈現 (visualization)
